@@ -1,6 +1,6 @@
 # onedark-termite
 
-![screenshot](https://raw.githubusercontent.com/1se/onedark-termite/master/screenshhot.png "Screenshot")
+![screenshot](https://raw.githubusercontent.com/1se/onedark-termite/master/screenshot.png "Screenshot")
 
 This is a port of Atom's One Dark color scheme for Termite.
 
